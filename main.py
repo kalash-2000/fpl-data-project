@@ -3,7 +3,6 @@ Python module to upload data to S3 bucket
 
 Created by 
 Author 1: Kalash Gandhi <kalashgandhi.kg10@gmail.com>
-Author 2: Anoushka Rao <anoushka410@gmail.com>
 """
 ##### Imports
 from data_ingestion import create_master_data
